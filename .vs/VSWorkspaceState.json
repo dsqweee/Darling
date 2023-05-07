@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DarlingDb",
+    "\\DarlingDb\\Models",
+    "\\DarlingNet",
+    "\\DarlingNet\\Modules",
+    "\\DarlingNet\\Services",
+    "\\DarlingNet\\Services\\LocalService"
+  ],
+  "SelectedNode": "\\DarlingDb\\Models\\Users.cs",
+  "PreviewInSolutionExplorer": false
+}
